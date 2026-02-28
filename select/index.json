@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Interstellar Voyage",
+  "base_artist": "End Must Be",
+  "createdAt": "2026-02-28T14:13:12.536864Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Interstellar Love",
+      "artist": "The Avalanches feat. Leon Bridges",
+      "has_synced": true,
+      "path": "select/01_Interstellar_Love_The_Avalanches_feat._Leon_Bridges.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Interstellar Love (feat. Leon Bridges)",
+      "artist": "The Avalanches",
+      "has_synced": true,
+      "path": "select/02_Interstellar_Love_(feat._Leon_Bridges)_The_Avalanches.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Star - Interstellar Mix",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/03_Star_-_Interstellar_Mix_Erasure.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Star (Interstellar Mix)",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/04_Star_(Interstellar_Mix)_Erasure.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Interstellar",
+      "artist": "Amplifier",
+      "has_synced": true,
+      "path": "select/05_Interstellar_Amplifier.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Interstellar Soul",
+      "artist": "Marc Bolan feat. T. Rex",
+      "has_synced": false,
+      "path": "select/06_Interstellar_Soul_Marc_Bolan_feat._T._Rex.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Interstellar",
+      "artist": "Frankie Rose",
+      "has_synced": true,
+      "path": "select/07_Interstellar_Frankie_Rose.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Interstellar Me",
+      "artist": "Inner Wave",
+      "has_synced": false,
+      "path": "select/08_Interstellar_Me_Inner_Wave.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Interstellar Voyage",
+      "artist": "End Must Be",
+      "has_synced": false,
+      "path": "select/pl_01_Interstellar_Voyage_End_Must_Be.txt"
+    }
+  ]
+}
